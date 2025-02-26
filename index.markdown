@@ -5,4 +5,7 @@
 layout: home
 ---
 
+<img src="does-not-sandwich.jpeg">
+<hr>
 COMING SOON!
+
